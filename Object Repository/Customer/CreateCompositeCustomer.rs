@@ -136,5 +136,5 @@ assertThat(response.getResponseText()).contains('Katalon Test Project')
 //WS.verifyElementPropertyValue(response, 'issues[0].fields.project.key', 'KTP')
 
 </verificationScript>
-   <wsdlAddress>http://172.30.10.32:8181/AOMWSCustomer/AOMWSCustomer?wsdl</wsdlAddress>
+   <wsdlAddress>http://172.30.10.31:8181/AOMWSCustomer/AOMWSCustomer?wsdl</wsdlAddress>
 </WebServiceRequestEntity>
